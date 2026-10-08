@@ -1,5 +1,5 @@
 # atividade-mysql
-Lição do professor Àtila
+Lição do professor Átila
 
 ======== Contextualização ========
 
