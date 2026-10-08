@@ -42,6 +42,7 @@ O banco de dados foi projetado seguindo as normas formais de modelagem relaciona
 
   ## Desenvolvedoras
   Projetado e implementado com dedicação por:
+  
   [Lívia]
   ([https://github me](https://github.com/LiviaMartins1))
 
